@@ -22,8 +22,8 @@ npm run test
 ```
 
 ## Built With
-* [GraphQL Yoga] (https://github.com/prisma/graphql-yoga) - API Layer for GraphQL calls
-* [Prisma] (https://github.com/prisma/prisma) - GraphQL Layer interfacing with Db
+* [GraphQL Yoga](https://github.com/prisma/graphql-yoga) - API Layer for GraphQL calls
+* [Prisma](https://github.com/prisma/prisma) - GraphQL Layer interfacing with Db
 
 
 ## Authors
